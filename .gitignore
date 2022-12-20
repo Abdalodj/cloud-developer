@@ -35,3 +35,7 @@ UserInterfaceState.xcuserstate
 node_modules
 venv/
 .vscode
+
+**/package-lock.json
+
+course-02/exercises/udacity-c2-basic-server/package-lock.json
